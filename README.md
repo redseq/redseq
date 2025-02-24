@@ -14,17 +14,30 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Welcome to my GitHub profile! Make sure to visit often.
+# Welcome to redseq's GitHub Profile
 
-## About Me
-- **Name:** Fransheskoh
-- **GitHub Username:** redseq
-- **Bio:** Im a self taught developer. I remember being scared of interacting with the dashboard let alone add a half-assed README file.
-- **Skills:** If it has to do with technology, Im all over it. I have some skill with: HTML, CSS, JavaScript, bash, c++, Information Technology, Product Manager, Cloud Security Engineer, Business Logic 
-- **Location:** Sinaloa, Mex
-- **Website:** None that are public.
+I am dedicated to leveraging technology to drive innovation and excellence. My work focuses on critical thinking, adherence to best standards, and disruptive solutions.
 
-## Contact
+## Technologies & Tools
+- **Languages:** JavaScript, Python, Java, C++
+- **Frameworks & Libraries:** React, Node.js, Express, Django, Spring Boot
+- **Databases:** MySQL, PostgreSQL, MongoDB
+- **Tools:** Git, Docker, Kubernetes, Jenkins
+
+## Current Focus
+- Mastering advanced machine learning techniques.
+- Exploring cloud computing with AWS.
+- Implementing DevOps practices to streamline workflows.
+
+## Key Projects
+- **[Game Theory Applications](link-to-project):** Developing innovative applications of game theory to solve complex decision-making problems. This project utilizes Python and advanced algorithms to model and simulate strategic interactions in various scenarios.
+- **[Cryptoman](link-to-project):** A secure and efficient cryptocurrency management platform. Built with Node.js and MongoDB, Cryptoman focuses on providing a seamless user experience while ensuring top-notch security standards.
+- **[Red-Towers](link-to-project):** An architectural visualization tool that leverages cutting-edge technologies such as React and Three.js. Red-Towers aims to revolutionize how architects and designers present and explore their creations in a virtual environment.
+
+## Contact Information
 - **Email:** javier.burgos96@live.com
 
-Thank you for visiting my profile!
+## Let's Collaborate
+I am always open to discussing new ideas, collaborating on projects, and exploring innovative solutions. Reach out if you are interested in working together.
+
+Thank you for visiting my profile.
