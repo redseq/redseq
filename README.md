@@ -14,30 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Welcome to redseq's GitHub Profile
+# Welcome to my GitHub profile! Make sure to visit often.
 
-I am dedicated to leveraging technology to drive innovation and excellence. My work focuses on critical thinking, adherence to best standards, and disruptive solutions.
+## About Me
+- **Name:** Fransheskoh
+- **GitHub Username:** redseq
+- **Bio:** Im a self taught developer. Currently, I am working on getting my Cisco Certified Network Technician certificate. I have been a part of the Cisco online community as an independent learner. I frequent support forums and documentation pages of all types of different topics. As of 3 years ago I have been trying  to master networking fundamentals and basic troubleshooting. During this journey I have discovered and rediscovered technologies that I am excited to learn in depth in the upcoming years.
+- **Skills:** As a self taught indiividual I cannot say I have skills and I cannot say that I dont have skills. I like to think that someday I may have some skill with: HTML, CSS, JavaScript, bash, c++, Information Technology, Product Manager, Cloud Security Engineer, Business Logic, Network Fundamentals. Just a few things I would like to master. Most importantly I want to create or help create.  
+- **Location:** Sinaloa, Mex
+- **Website:** None at the moment. I would apreciate some assistance with a project that can be mutually beneficial.
+- **My Project:** I want to be able hit a shortcut and launch my own custom code editing application in a secure enviroment and be able to manage my data and content following best practices.
 
-## Technologies & Tools
-- **Languages:** JavaScript, Python, Java, C++
-- **Frameworks & Libraries:** React, Node.js, Express, Django, Spring Boot
-- **Databases:** MySQL, PostgreSQL, MongoDB
-- **Tools:** Git, Docker, Kubernetes, Jenkins
+## Contact
+- **Email:** javier.burgos96@live.com<br>
+  (Please be casual and try to keep it simple. No ads or links.)
 
-## Current Focus
-- Mastering advanced machine learning techniques.
-- Exploring cloud computing with AWS.
-- Implementing DevOps practices to streamline workflows.
-
-## Key Projects
-- **[Game Theory Applications](link-to-project):** Developing innovative applications of game theory to solve complex decision-making problems. This project utilizes Python and advanced algorithms to model and simulate strategic interactions in various scenarios.
-- **[Cryptoman](link-to-project):** A secure and efficient cryptocurrency management platform. Built with Node.js and MongoDB, Cryptoman focuses on providing a seamless user experience while ensuring top-notch security standards.
-- **[Red-Towers](link-to-project):** An architectural visualization tool that leverages cutting-edge technologies such as React and Three.js. Red-Towers aims to revolutionize how architects and designers present and explore their creations in a virtual environment.
-
-## Contact Information
-- **Email:** javier.burgos96@live.com
-
-## Let's Collaborate
-I am always open to discussing new ideas, collaborating on projects, and exploring innovative solutions. Reach out if you are interested in working together.
-
-Thank you for visiting my profile.
+Thank you for visiting my profile!
