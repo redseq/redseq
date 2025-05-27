@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ## About Me
 - **Name:** Fransheskoh
 - **GitHub Username:** redseq
-- **Bio:** Im a self taught developer. I remember being scared of interacting with the dashboard let alone add a half-assed README file.
+- **Bio:** Im a self taught developer.
 - **Skills:** If it has to do with technology, Im all over it. I have some skill with: HTML, CSS, JavaScript, bash, c++, Information Technology, Product Manager, Cloud Security Engineer, Business Logic 
 - **Location:** Sinaloa, Mex
 - **Website:** None that are public.
