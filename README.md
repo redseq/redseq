@@ -20,11 +20,10 @@ Here are some ideas to get you started:
 - **Name:** Fransheskoh
 - **GitHub Username:** redseq
 - **Bio:** Im a self taught developer.
-- **Skills:** If it has to do with technology, Im all over it. I have some skill with: HTML, CSS, JavaScript, bash, c++, Information Technology, Product Manager, Cloud Security Engineer, Business Logic 
+- **Skills:** I have some skill with: HTML, CSS, bash
+- **Interests:** Information Technology, Product Manager, Cloud Security Engineer, Business Logic
 - **Location:** Sinaloa, Mex
-- **Website:** None that are public.
-
-## Contact
-- **Email:** javier.burgos96@live.com
+- **Website:** Coming soon. 
+- **Motivations:** Becoming an agent of change.
 
 Thank you for visiting my profile!
